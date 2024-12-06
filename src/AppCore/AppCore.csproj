@@ -6,7 +6,7 @@
 		<Nullable>enable</Nullable>
 		<AssemblyName>AppCore</AssemblyName>
 		<RootNamespace>AppCore</RootNamespace>
-		<Version>0.1.2</Version>
+		<Version>0.1.3</Version>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>AppCore.Net</PackageId>
 		<Title>AppCore</Title>
